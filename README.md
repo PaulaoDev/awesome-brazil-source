@@ -25,3 +25,4 @@ Desenvolvedor | Projeto | Cidade/Região/Estado
 [Álvaro Justing](https://github.com/turicas) | [Rows](https://github.com/turicas/rows) | Curitiba/PR
 [Christian S. Perone](https://github.com/perone) | [PyEvolve](https://github.com/perone/Pyevolve) | Porto Alegre/RS
 [Vanderson Mota](https://github.com/vandersonmota) | [Model Mommy](https://github.com/vandersonmota/model_mommy) | Rio de Janeiro/RJ
+[Paulao Dev](https://github.com/PaulaoDev) | [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Catanduva/SP
